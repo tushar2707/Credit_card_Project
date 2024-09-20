@@ -1,2 +1,2 @@
 # Credit_card_Project
-PowerBi Project to provide the deep dive information on the credit card performance and identify key trends.
+The PowerB project that has been created with an objective to empower the stakeholders with the real time insights into key metrics and 
